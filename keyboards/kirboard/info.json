@@ -1,0 +1,19 @@
+
+{
+    "manufacturer": "Kir San",
+    "keyboard_name": "kirboard",
+    "maintainer": "kir-san",
+    "bootloader": "custom",
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "cols": ["GP8", "GP9", "GP10", "GP11", "GP12", "GP13", "GP14", "GP15", "GP16", "GP19", "GP17", "GP21", "GP20", "GP18"],
+        "rows": ["GP28", "GP29", "GP27", "GP26", "GP22"]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0xDACB",
+        "vid": "0x1111"
+    }
+}
